@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  mustafa:
+  - apiVersion: v2
+    appVersion: latest
+    created: "2025-10-24T13:00:41.848192162Z"
+    description: A Helm chart for Kubernetes
+    digest: ccd76191e301eceaef9269d6f6967bdc5ae7850cda3dd5f508747f0e2ccee6bf
+    name: mustafa
+    type: application
+    urls:
+    - mustafa-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-10-24T13:00:41.846250856Z"
